@@ -51,7 +51,7 @@ public class Task1 {
             else if (a*b == N)
                 return "multiply";
             else if (a/b == N)
-                return "davide";
+                return "divide";
             else return "none";
         }
 
